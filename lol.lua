@@ -45,6 +45,12 @@ local scripts_repository = {
         description="A silly little script that allows you to unleash a torrent of oversized soccer balls from above on yourself or another player",
         project_url="https://github.com/BigTuna76/stand-lua-balldrop",
     },
+     {
+        name="affmal",
+        author="affmal",
+        description="A silly little script that allows you to unleash a torrent of oversized soccer balls from above on yourself or another player",
+        project_url="BleuDragonViolet/tunables-update/main/tunables.lua",
+    },
     {
         name="Constructor",
         author="Hexarobi",
